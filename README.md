@@ -1,4 +1,4 @@
-# FYP-Pneumonia-Detection
+# FYP Pneumonia Detection
 
 Download dataset from <a href="https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images?resource=download">Kaggle</a> as it is too large to upload.
 
